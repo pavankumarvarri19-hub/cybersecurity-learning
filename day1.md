@@ -1,20 +1,28 @@
-# Day 1
+# Day 1 - 14 July 2026
+
+## Platform
+TryHackMe
 
 ## Room Completed
 Offensive Security Intro
 
 ## Concepts Learned
-- Offensive Security
-- Defensive Security
-- Ethical Hacking
-- DIRB
 
-## What I Understood
-Offensive Security means finding vulnerabilities with permission before attackers can exploit them.
+### Offensive Security
+Finding vulnerabilities in a system with the owner's permission before attackers find them.
 
-Defensive Security means protecting systems from attacks using security measures.
+### Defensive Security
+Protecting systems from cyber attacks using security measures.
 
-DIRB is a tool that finds hidden folders and files on websites.
+### Ethical Hacking
+Testing a system legally to improve its security.
 
-## Date
-14 July 2026
+### DIRB
+A tool used to find hidden folders and files on a website.
+
+## My Learning
+
+Today I created my TryHackMe account and completed my first cybersecurity room. I understood the difference between offensive and defensive security and learned the basic purpose of the DIRB tool.
+
+## Status
+✅ Day 1 Completed
