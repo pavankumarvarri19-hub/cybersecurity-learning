@@ -1,9 +1,13 @@
 # Cybersecurity Learning Journey
 
-Hi, I'm Pavan Kumar.
+## About Me
+- Name: Pavan Kumar
+- B.Tech 3rd Year (Information Technology)
+- Learning Cybersecurity from scratch
 
-I am a B.Tech 3rd Year IT student.
-
-My goal is to become a Cybersecurity Professional while preparing for GATE.
-
-This repository contains my daily learning, TryHackMe write-ups, and cybersecurity projects.
+## Goals
+- Build cybersecurity skills
+- Complete TryHackMe learning paths
+- Build cybersecurity projects
+- Get a good internship
+- Start my cybersecurity career
