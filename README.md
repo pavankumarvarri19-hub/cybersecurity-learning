@@ -1,7 +1,7 @@
 # Cybersecurity Learning Journey
 
 ## About Me
-- Name: Pavan Kumar
+- Name: varri. Pavan Kumar
 - B.Tech 3rd Year (Information Technology)
 - Learning Cybersecurity from scratch
 
