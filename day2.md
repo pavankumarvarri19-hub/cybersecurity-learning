@@ -1,4 +1,4 @@
-# Day 2 15 july
+# Day 2 - 15 July 2026
 
 ## Room Completed
 Defensive Security Intro
