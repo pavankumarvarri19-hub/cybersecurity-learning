@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 - 16 July 2026
 
 ## TryHackMe
 Room Completed:
